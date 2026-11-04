@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+.superdesign/tmp/
+
+# Generated visual-review artifacts
+docs/qa/*.png
+docs/contato-*.jpg
+docs/contatos-indice.json
